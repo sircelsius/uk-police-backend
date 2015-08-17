@@ -1,0 +1,3 @@
+[submodule "elasticsearch/csv-uploader"]
+	path = elasticsearch/csv-uploader
+	url = git@github.com:sircelsiussexy/uk-police-csv-elasticsearch-uploader.git
